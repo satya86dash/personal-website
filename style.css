@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+}
+
+div{
+    background-color: #E4F9F5;
+    height: 500px;
+}
+.i1{
+    position: relative;
+    bottom: 50px;
+    left: 100px;
+    
+    
+}
+.i2{
+    position: relative;
+    bottom: 150px;
+    left: 1200px;
+    
+    
+}
+.i3{
+    position: relative;
+    top: 200px;
+    left: 170px;
+    
+}
+.i4{
+    position: relative;
+    right: 800px;
+    bottom: 220px;
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+}
